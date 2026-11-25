@@ -1,0 +1,35 @@
+population,variable,level,customers,ret_90d,ci_90d,ret_180d,ci_180d
+all customers,plan_type,annual,1539,0.976,0.97-0.98,0.95,0.94-0.96
+all customers,plan_type,monthly,2661,0.727,0.71-0.74,0.58,0.56-0.60
+all customers,plan_tier,basic,1976,0.821,0.80-0.84,0.713,0.69-0.73
+all customers,plan_tier,plus,1501,0.82,0.80-0.84,0.723,0.70-0.75
+all customers,plan_tier,premium,723,0.805,0.77-0.83,0.704,0.67-0.74
+all customers,acquisition_channel,organic,1298,0.831,0.81-0.85,0.742,0.72-0.77
+all customers,acquisition_channel,paid_social,989,0.858,0.83-0.88,0.732,0.70-0.76
+all customers,acquisition_channel,partner,476,0.83,0.79-0.86,0.71,0.66-0.75
+all customers,acquisition_channel,promo_offer,949,0.71,0.68-0.74,0.618,0.59-0.65
+all customers,acquisition_channel,referral,488,0.899,0.87-0.92,0.798,0.76-0.83
+all customers,primary_device,android,1550,0.801,0.78-0.82,0.695,0.67-0.72
+all customers,primary_device,ios,1976,0.816,0.80-0.83,0.724,0.70-0.74
+all customers,primary_device,web,674,0.863,0.83-0.89,0.733,0.70-0.77
+all customers,age_group,18-24,717,0.828,0.80-0.85,0.72,0.68-0.75
+all customers,age_group,25-34,1400,0.812,0.79-0.83,0.696,0.67-0.72
+all customers,age_group,35-44,1073,0.83,0.81-0.85,0.734,0.71-0.76
+all customers,age_group,45-54,619,0.79,0.76-0.82,0.699,0.66-0.73
+all customers,age_group,55+,391,0.832,0.79-0.87,0.741,0.69-0.78
+monthly plans only,plan_tier,basic,1240,0.731,0.70-0.75,0.58,0.55-0.61
+monthly plans only,plan_tier,plus,951,0.73,0.70-0.76,0.589,0.56-0.62
+monthly plans only,plan_tier,premium,470,0.711,0.67-0.75,0.565,0.52-0.61
+monthly plans only,acquisition_channel,organic,820,0.746,0.72-0.77,0.616,0.58-0.65
+monthly plans only,acquisition_channel,paid_social,641,0.794,0.76-0.82,0.614,0.57-0.65
+monthly plans only,acquisition_channel,partner,306,0.752,0.70-0.80,0.6,0.54-0.66
+monthly plans only,acquisition_channel,promo_offer,589,0.553,0.51-0.59,0.423,0.38-0.46
+monthly plans only,acquisition_channel,referral,305,0.845,0.80-0.88,0.696,0.64-0.75
+monthly plans only,primary_device,android,1010,0.708,0.68-0.73,0.56,0.53-0.59
+monthly plans only,primary_device,ios,1223,0.72,0.69-0.74,0.589,0.56-0.62
+monthly plans only,primary_device,web,428,0.792,0.75-0.83,0.606,0.55-0.65
+monthly plans only,age_group,18-24,460,0.743,0.70-0.78,0.589,0.54-0.63
+monthly plans only,age_group,25-34,880,0.722,0.69-0.75,0.561,0.53-0.59
+monthly plans only,age_group,35-44,673,0.738,0.70-0.77,0.596,0.56-0.63
+monthly plans only,age_group,45-54,389,0.673,0.62-0.72,0.547,0.49-0.60
+monthly plans only,age_group,55+,259,0.766,0.71-0.81,0.64,0.57-0.70
